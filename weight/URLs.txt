@@ -1,4 +1,6 @@
 This file contains links to the pre-trained model weights stored on Google Drive. 
 Please download the files and place them in the 'cs_modis_cgan-release' directory before running inference.
 https://drive.google.com/drive/folders/1wzBRv8IRJJ1l2-oOyMU0FrIC-AZlzz42?usp=sharing
-1
+
+The testing dataset link
+https://drive.google.com/file/d/1vy0eZlA92bZVyQzIqOUjdM_kR75dsayI/view?usp=sharing
